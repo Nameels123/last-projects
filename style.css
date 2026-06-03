@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+    background-color: white;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.baner{
+    width: 100%;
+    height: 300px;
+    background-color: darkcyan;
+}
+
+.baner h2{
+    padding-top: 90px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.baner p{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+.baner button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: rgb(255, 123, 0);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+.info{
+    width: 400px;
+    padding-top: 50px;
+}
+
+.info h1{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info p{
+    margin-top: 20px;
+}
+
+.text{
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.About{
+    background-color: rgb(255, 245, 232);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.About img{
+    width: 300px;
+    border-radius: 100%;
+    padding-top: 20px;
+}
+
+.About a{
+    display: block;
+    margin-top: 30px;
+}
+
+.text{
+    font-size: 16px;
+    color: #555;  
+}
+
+.text a{
+    color: #f39c12;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.sales{
+    width: 400px;
+    padding-top: 50px;
+}
+
+.sales h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.sales p{
+    color: white;
+    margin-top: 20px;
+}
+
+.text2{
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.correct{
+    background-color: rgb(255, 98, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.correct img{
+    width: 300px;
+    border-radius: 100%;
+    padding-top: 20px;
+}
+
+.correct a{
+    display: block;
+    margin-top: 30px;
+}
+
+.text2{
+    font-size: 16px;
+    color: #ffffff;  
+}
+
+.text2 a{
+    color: #ffee00;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.photo{
+    background-color: rgb(255, 255, 255);
+}
+
+.photo2{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px;
+}
+
+.photo3{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px;
+}
+
+.photo4{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px;
+}
+
+.text3{
+    font-size: 16px;
+    color: #555;
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 750px;
+}
+
+.text3 a{
+    color: #f39c12;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.plants{
+    width: 300px;
+    height: 300px;
+}
+
